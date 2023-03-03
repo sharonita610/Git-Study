@@ -1,0 +1,29 @@
+[33mcommit 16dd2c659c294d23e5f33b987ceebd904bda8882[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sharon Kim <sharonita610@gmail.com>
+Date:   Thu Mar 2 16:10:55 2023 +0900
+
+    5번째커밋 -food 파일을 만들어 좋아하는 음식 리스트 작성
+
+[33mcommit 55889eb48f081303655aa513383194f3f80859d6[m
+Author: Sharon Kim <sharonita610@gmail.com>
+Date:   Thu Mar 2 16:09:20 2023 +0900
+
+    4번째 커밋을 합니당 -bye 파일 생성
+
+[33mcommit 3089cdc4de756986557f9aba4fc4eb0cf0d8f776[m
+Author: Sharon Kim <sharonita610@gmail.com>
+Date:   Thu Mar 2 15:54:10 2023 +0900
+
+    세번째 버번 - hello 수정, bye 삭제, 파일 3개 추가
+
+[33mcommit 77f9a8c56b36b12a74c9315ac49636e047965d04[m
+Author: Sharon Kim <sharonita610@gmail.com>
+Date:   Thu Mar 2 15:48:40 2023 +0900
+
+    두번째 버전 생성 - hello 수정하고 bye추가함
+
+[33mcommit cd21967abf3d23cfe30cc7fd16a1cb97c72abcb3[m
+Author: Sharon Kim <sharonita610@gmail.com>
+Date:   Thu Mar 2 15:36:49 2023 +0900
+
+    인사 하고 싶어서 hello파일 만드러썽
